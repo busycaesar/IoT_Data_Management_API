@@ -14,6 +14,10 @@ The **Continuous Deployment (CD)** workflow is activated when a new version tag 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=nodejs,express,jest,docker,aws,githubactions,dynamodb" />
 
+## System Architecture
+
+![System Architecture](https://github.com/user-attachments/assets/2c9faf12-2476-4e6f-8617-9c0d0bd37140)
+
 ## List of APIs
 **Note**: All the requests should have the authorization token in the Header. 
 
