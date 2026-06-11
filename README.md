@@ -1,4 +1,4 @@
-# Introductory AWS Cloud Project
+# CloudShards
 
 ## Video Explaination
 [<img src="https://img.youtube.com/vi/xJ_gedeHwtw/0.jpg" width="500" height="375"
